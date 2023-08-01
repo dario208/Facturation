@@ -9,5 +9,7 @@
 <body>
     
      @yield('content')
+
+     <h1>bonjour</h1>
 </body>
 </html>
