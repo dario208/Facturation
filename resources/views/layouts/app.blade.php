@@ -10,8 +10,5 @@
     
      @yield('content')
 
-     <h1>bonjour</h1>
-     <h2>Hilely foury</h2>
-     <h2>adala maty</h2>
 </body>
 </html>
