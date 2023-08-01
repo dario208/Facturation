@@ -11,5 +11,6 @@
      @yield('content')
 
      <h1>bonjour</h1>
+     <h2>Hilely foury</h2>
 </body>
 </html>
